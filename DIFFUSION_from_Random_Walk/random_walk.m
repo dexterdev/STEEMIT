@@ -12,7 +12,7 @@ space_2d(x,y)=1;
 % We are going to play random walk here
 
 
-for i=1:500
+for i=1:1000
 	direction=randi(4);
 	% randi(4) is a uniform distributed integer which spits out integers 1 to 4
 	% Let 1 imply right,2 - up, 3 - left, 4 - down
