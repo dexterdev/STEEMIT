@@ -5,9 +5,9 @@ clear,clc,close all
 % clc - clear screen
 % close all - close all matlab figure windows
 
-space_2d=zeros(121,121); 
-x=61;
-y=61;
+space_2d=zeros(201,201); 
+x=101;
+y=101;
 space_2d(x,y)=1;
 % We are going to play random walk here
 
