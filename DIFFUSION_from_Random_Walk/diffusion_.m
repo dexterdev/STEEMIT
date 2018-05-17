@@ -14,7 +14,7 @@ space_2d(x,y,1)=1;
 for repeat=1:1000
 x=101;
 y=101;
- for i=1:500
+ for i=1:1000
 	direction=randi(4);
 	% randi(4) is a uniform distributed integer which spits out integers 1 to 4
 	% Let 1 imply right,2 - up, 3 - left, 4 - down
