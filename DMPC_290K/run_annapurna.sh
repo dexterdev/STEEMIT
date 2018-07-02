@@ -4,7 +4,7 @@
 #PBS -N DMPC_patch
 #PBS -q workq
 #PBS -V
-#PBS -M devanand.t.1986@gmail.com
+#PBS -M my-email@gmail.com
 #PBS -m abe 
 #PBS -j oe
 
