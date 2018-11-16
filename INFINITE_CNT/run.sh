@@ -7,7 +7,7 @@
 
 #SBATCH --export=all
 #SBATCH --mail-type=ALL
-#SBATCH --mail-user=devanand.t.1986@gmail.com
+#SBATCH --mail-user=your-email-id
 
 
 cd $SLURM_SUBMIT_DIR
@@ -18,4 +18,4 @@ module unload intel/2017
 module load intel/2015
 module load namd/2.10
 
-mpirun -v -np 16 /opt/apps/namd/2.10/namd2 ./test.config  >& out
+mpirun -v -np 16 /opt/apps/namd/2.10/namd2 ./eq1.config  >& out
