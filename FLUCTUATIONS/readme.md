@@ -1,1 +1,1 @@
-This folder contains the data necessary for my steemit article **Studying global motions of proteins from Molecular Dynamics trajectories**. Link will be updated soon.
+This folder contains the data necessary for my steemit article **Studying global motions of proteins from Molecular Dynamics trajectories**. Link : https://steemit.com/steemstem/@dexterdev/studying-global-motions-of-proteins-from-molecular-dynamics-trajectories
