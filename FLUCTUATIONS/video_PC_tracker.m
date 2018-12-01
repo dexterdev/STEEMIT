@@ -1,7 +1,7 @@
 
 close, clear,clc
 
-PC=load('/home/devanandt/Documents/SIMULATION_TECHNIQUES_IN_BIOLOGY/NETWORK-ANALYSIS/covariance/PC_all_combined_ubq-fitted.dat') ;
+PC=load('./PC_all_combined_ubq-fitted.dat') ;
 
 
 
