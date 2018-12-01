@@ -9,6 +9,7 @@ File details
 - pca.pdf (PCA plot)
 - pca_md.m (Matlab script to do PCA on MD trajectory)
 - rmsf.tcl (Tcl script to evaluate RMSF of CA atoms)
+- PC_all_combined_ubq-fitted.dat (PC1 PC2 PC3 vectors in 1st 2nd 3rd columns and frames in row numbers in 4th column)
 
 Trjectory files:
 
