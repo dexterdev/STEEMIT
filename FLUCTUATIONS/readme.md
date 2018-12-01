@@ -10,7 +10,7 @@ File details
 - pca_md.m (Matlab script to do PCA on MD trajectory)
 - rmsf.tcl (Tcl script to evaluate RMSF of CA atoms)
 - PC_all_combined_ubq-fitted.dat (PC1 PC2 PC3 vectors in 1st 2nd 3rd columns and row numbers in 4th column)
-- video_PC1_PC2_PC3_tracker_new.m (code in MATLAB to temporally and spatially track the simulation structures in the principal component space)
+- video_PC_tracker_new.m (code in MATLAB to temporally and spatially track the simulation structures in the principal component space)
 
 Trjectory files:
 
