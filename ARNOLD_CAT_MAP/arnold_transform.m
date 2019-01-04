@@ -17,7 +17,7 @@ h=figure
 for i=1:iter
 	for x = 1 : s
 		for y = 1 : s
-            xmap = mod(x+y, N) + 1;
+                        xmap = mod(x+y, N) + 1;
 			ymap = mod(x+2*y, N) + 1;
 			Anew(x, y, :) = Aold(xmap, ymap, :);
 		end
